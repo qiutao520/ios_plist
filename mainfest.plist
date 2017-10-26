@@ -13,33 +13,33 @@
                         <key>url</key>
                         <string>http://down.52y.com/mainfest.ipa</string>
                     </dict>
-                    <dict>
-                        <key>kind</key>
-                        <string>full-size-image</string>
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                        <string>http://images.52y.com/icon/Icon512.png</string>
+                    <!-- 				<dict>
+                            <key>kind</key>
+                            <string>full-size-image</string>
+                            <key>needs-shine</key>
+                            <true/>
+                            <key>url</key>
+                            <string>http://x5.justep.com/apps/x5.png</string>
                     </dict>
                     <dict>
-                        <key>kind</key>
-                        <string>display-image</string>
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                        <string>http://images.52y.com/icon/Icon57.png</string>
-                    </dict>
+                            <key>kind</key>
+                            <string>display-image</string>
+                            <key>needs-shine</key>
+                            <true/>
+                            <key>url</key>
+                            <string>http://x5.justep.com/apps/x5.png</string>
+                    </dict> -->
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.paiyuan.gamemate</string>
+                    <key>com.paiyuan.gamemate</key>
                     <key>bundle-version</key>
                     <string>2.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>牌缘南通长牌</string>
+                    <string>GameMate Debug Download</string>
                 </dict>
             </dict>
         </array>
